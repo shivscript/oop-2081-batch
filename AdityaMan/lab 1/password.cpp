@@ -50,7 +50,7 @@ int main() {
     cout << "Enter your password: ";
     cin >> password;
 password.length() < 8
-    while () {
+    while() {
         cout << "Password must be at least 8 characters long.\n";
         cout << "Enter a longer password: ";
         cin >> password;
